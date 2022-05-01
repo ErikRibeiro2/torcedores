@@ -1,0 +1,88 @@
+.cabecalho{
+    text-align: center;
+}
+#cadastrar-time{
+    position: relative;
+    top: 14vh;
+    margin: 0 auto;
+    max-width: max-content;
+    max-height: max-content;
+    border-radius: 10px;
+    background-color: rgb(236, 236, 236);
+    padding: 10px;
+}
+#cxNomeTime{
+    font-size: 14pt;
+    padding: 5px;
+    width: 400px;
+}
+#cxAbreviacao{
+    font-size: 14pt;
+    padding: 5px;
+}
+#cxInformacao{
+    width: 400px;
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+#btnCadastro{
+    width: 80%;
+    font-size: 14pt;
+    font-weight: bold;
+    padding: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.438);
+    cursor: pointer;
+    border-radius: 6px;
+}
+#btn{
+    margin-top: 10px;
+    text-align: center;
+}
+
+/*popup cadastrar torcedor */
+
+.cabecalho{
+    text-align: center;
+}
+#cadastrar-torcedor{
+    position: absolute;
+    top: 14vh;
+    left: 34%;
+    max-width: max-content;
+    max-height: max-content;
+    border-radius: 10px;
+    background-color: rgb(236, 236, 236);
+    padding: 10px;
+}
+.cxNomeTorcedor{
+    font-size: 14pt;
+    padding: 5px;
+    width: 400px;
+}
+.cxSexo{
+    font-size: 14pt;
+    padding: 5px;
+}
+#cxData{
+    font-size: 14pt;
+    padding: 5px;
+}
+#cxTime{
+    font-size: 14pt;
+    padding: 5px;
+}
+
+#btnCadastroTorcedor{
+    width: 80%;
+    font-size: 14pt;
+    font-weight: bold;
+    padding: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.438);
+    cursor: pointer;
+    border-radius: 6px;
+}
+#btn{
+    margin-top: 10px;
+    text-align: center;
+}
